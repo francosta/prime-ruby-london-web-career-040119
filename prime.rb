@@ -4,7 +4,7 @@ require 'pry'
 
 
 def prime?(n)
-  if n <= 1
+  if n <= 0
     binding.pry
     false
   else
