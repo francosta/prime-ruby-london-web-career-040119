@@ -16,7 +16,7 @@ require 'pry'
    end
  end
 
-def prime?(n) 
+def prime?(n)
   if n <= 1
     false
   else
